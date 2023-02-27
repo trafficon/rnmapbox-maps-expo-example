@@ -24,7 +24,7 @@
     "react-dom": "18.1.0",
     "react-native": "0.70.6",
     "react-native-web": "0.18.10",
-    "expo-constants": "14.0.2"
+    "expo-constants": "14.2.1"
   },
   "devDependencies": {
     "@babel/core": "7.21.0",
