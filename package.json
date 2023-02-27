@@ -20,15 +20,15 @@
     "expo": "47.0.8",
     "expo-dev-client": "2.0.1",
     "expo-status-bar": "1.4.2",
-    "react": "18.1.0",
+    "react": "18.2.0",
     "react-dom": "18.1.0",
-    "react-native": "0.70.6",
+    "react-native": "0.71.3",
     "react-native-web": "0.18.10",
     "expo-constants": "14.0.2"
   },
   "devDependencies": {
     "@babel/core": "7.21.0",
-    "@types/react": "18.0.25",
+    "@types/react": "18.0.28",
     "@types/react-native": "0.70.7",
     "prettier": "2.8.4",
     "ts-node": "10.9.1",
